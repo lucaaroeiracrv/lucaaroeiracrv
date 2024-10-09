@@ -2,6 +2,13 @@
 
 Sou formado em Tecnologia da Informação e tenho 17 anos. Bem-vindo ao meu perfil! Aqui você encontrará um resumo das minhas habilidades e contribuições no GitHub.
 
+
+---
+
+
+![snake gif](https://github.com/lucaaroeiracrv/lucaaroeiracrv/blob/output/github-contribution-grid-snake.gif)
+
+
 ---
 
 ### 📊 Estatísticas do GitHub
