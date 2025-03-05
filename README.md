@@ -50,7 +50,6 @@ Atualmente, estou trabalhando em projetos que envolvem:
 - Desenvolvimento em React e React Native
 - Integração com Firebase
 - Aplicações backend em Node.js e PHP
-- **TCC:** [MATEC](https://github.com/lucaaroeiracrv/MATEC-TCC)
 
 ### 🌱 Aprendizados Recentes
 Estou aprendendo mais sobre:
