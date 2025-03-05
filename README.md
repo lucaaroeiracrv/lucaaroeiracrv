@@ -95,7 +95,7 @@ Estou aberto a colaborações em projetos de:
     <a href="https://discord.gg/seu-link" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a> -->
-    <a href="https://wa.me/55199997669889" target="_blank">
+    <a href="https://wa.me/+5519997669889" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
 <!--     <a href="https://store.steampowered.com/profile/seu-perfil" target="_blank">
