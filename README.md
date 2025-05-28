@@ -1,6 +1,6 @@
 ## Olá! 👋, sou o Luca Aroeira
 
-Sou formado em Tecnologia da Informação e tenho 17 anos. Bem-vindo ao meu perfil! Aqui você encontrará um resumo das minhas habilidades e contribuições no GitHub.
+Sou formado em Tecnologia da Informação e tenho 18 anos. Bem-vindo ao meu perfil! Aqui você encontrará um resumo das minhas habilidades e contribuições no GitHub.
 
 
 ---
