@@ -9,8 +9,8 @@ Sou formado em Tecnologia da Informação e tenho 18 anos. Bem-vindo ao meu perf
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaaroeiracrv&show_icons=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="lucaaroeiracrv's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaroeiracrv&layout=compact&hide=html,css&theme=tokyonight" alt="lucaaroeiracrv's top langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaaroeiracrv&show_icons=true&theme=tokyonight&hide_rank=true" alt="lucaaroeiracrv's stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaroeiracrv&layout=compact&theme=tokyonight" alt="lucaaroeiracrv's top langs"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaaroeiracrv&theme=github-compact" alt="github activity graph" />
