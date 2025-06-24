@@ -1,4 +1,4 @@
-## Olá! 👋, sou o Luca Aroeira
+## Olá! 👋, sou o **Luca Aroeira**
 
 Sou formado em Tecnologia da Informação e tenho 18 anos. Bem-vindo ao meu perfil! Aqui você encontrará um resumo das minhas habilidades e contribuições no GitHub.
 
@@ -6,13 +6,14 @@ Sou formado em Tecnologia da Informação e tenho 18 anos. Bem-vindo ao meu perf
 ---
 
 
-
 ### 📊 Estatísticas do GitHub
-<p style="display: flex; justify-content: center; margin: 20px 0; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucaaroeiracrv&show_icons=true&theme=radical&hide=prs" style="margin: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaroeiracrv&layout=compact&theme=radical" style="margin: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaaroeiracrv&theme=radical" style="margin: 10px; text-align: center;" />
-    <img src="https://github-profile-trophy.vercel.app/?username=lucaaroeiracrv&theme=radical" style="margin: 10px;" />
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaaroeiracrv&show_icons=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="lucaaroeiracrv's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaroeiracrv&layout=compact&hide=html,css&theme=tokyonight" alt="lucaaroeiracrv's top langs"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaaroeiracrv&theme=github-compact" alt="github activity graph" />
 </p>
 
 ---
@@ -20,28 +21,10 @@ Sou formado em Tecnologia da Informação e tenho 18 anos. Bem-vindo ao meu perf
 ### 🛠️ Tecnologias e Ferramentas
 
 #### Linguagens e Tecnologias
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" title="PHP" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,react,js,python,html,css,php,cpp" alt="Linguagens e Tecnologias" />
 
 #### Ferramentas
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" width="40" height="40" title="React Navigation" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" title="Postman" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" title="Firebase" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=react,git,github,postman,mysql,firebase,docker" alt="Ferramentas" />
 ---
 
 ### 💻 Projetos Atuais
@@ -104,6 +87,12 @@ Estou aberto a colaborações em projetos de:
     <a href="https://riotgames.com/en" target="_blank">
         <img src="https://img.shields.io/badge/Riot%20Games-FF4654?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games" />
     </a> -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucaaroeiracrv&style=for-the-badge" alt="lucaaroeiracrv" />
 </p>
 
 ---
