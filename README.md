@@ -24,7 +24,7 @@ Sou formado em Tecnologia da Informação e tenho 18 anos. Bem-vindo ao meu perf
 <img src="https://skillicons.dev/icons?i=ts,react,js,python,html,css,php,cpp" alt="Linguagens e Tecnologias" />
 
 #### Ferramentas
-<img src="https://skillicons.dev/icons?i=react,git,github,postman,mysql,firebase,docker" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,mysql,firebase,docker" alt="Ferramentas" />
 ---
 
 ### 💻 Projetos Atuais
