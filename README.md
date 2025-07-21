@@ -66,7 +66,7 @@ Estou aberto a colaborações em projetos de:
     <a href="mailto:lucaaroeira@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://www.instagram.com/lucaaroeira" target="_blank">
+    <a href="[https://www.instagram.com/lucaaroeira](https://www.instagram.com/luca_aroeira/)" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://www.linkedin.com/in/lucaaroeira" target="_blank">
