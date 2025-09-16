@@ -30,9 +30,11 @@ Sou formado em Tecnologia da Informação e tenho 18 anos. Bem-vindo ao meu perf
 ### 💻 Projetos Atuais
 Atualmente, estou trabalhando em projetos que envolvem:
 
-- Desenvolvimento em React e React Native
-- Integração com Firebase
-- Aplicações backend em Node.js e PHP
+- Sistema de gerenciamento de produtos usando Python
+- Automação de tarefas e scripts personalizados 
+- Desenvolvimento de aplicações web com React e Firebase
+- Integração de APIs para análise de dados
+- Aprimoramento de aplicações móveis com React Native
 
 ### 🌱 Aprendizados Recentes
 Estou aprendendo mais sobre:
@@ -40,13 +42,6 @@ Estou aprendendo mais sobre:
 - Machine Learning com TensorFlow
 - Desenvolvimento de APIs com Laravel
 - Melhores práticas em DevOps usando Docker
-
-### 🤝 Colaborações
-Estou aberto a colaborações em projetos de:
-
-- Desenvolvimento Web
-- Aplicações Móveis
-- Análise de Dados
 
 ---
 
