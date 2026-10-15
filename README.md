@@ -6,21 +6,35 @@ Sou formado em Tecnologia da Informação e tenho 19 anos. Bem-vindo ao meu perf
 ---
 
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaaroeiracrv&theme=github-compact" alt="github activity graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucaaroeiracrv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaroeiracrv&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas" />
+</p>
+
+### 📈 Gráfico de atividades
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaaroeiracrv&theme=github-compact&hide_border=true" alt="Gráfico de atividades do GitHub" width="100%" />
 </p>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e ferramentas
 
-#### Linguagens e Tecnologias
-<img src="https://skillicons.dev/icons?i=ts,react,js,python,html,css,php,cpp" alt="Linguagens e Tecnologias" />
+### 💻 Linguagens e desenvolvimento
 
-#### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,postman,mysql,firebase,docker" alt="Ferramentas" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,php" alt="C, C++, Python, JavaScript, TypeScript, HTML, CSS e PHP" />
+</p>
+
+### ⚙️ Frameworks, bancos de dados e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,firebase,mysql,docker,git,github,postman,laravel" alt="React, Firebase, MySQL, Docker, Git, GitHub, Postman e Laravel" />
+</p>
+
 ---
 
 ### 💻 Projetos Atuais
@@ -41,6 +55,7 @@ Estou aprendendo mais sobre:
 
 ---
 
+## 🐍 Minhas contribuições
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaaroeiracrv/lucaaroeiracrv/output/github-contribution-grid-snake-dark.svg">
