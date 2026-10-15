@@ -16,7 +16,7 @@ Sou formado em Tecnologia da Informação e tenho 19 anos. Bem-vindo ao meu perf
 ### 📈 Gráfico de atividades
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaaroeiracrv&show_icons=true&theme=github_dark&hide_border=true&locale=pt_BR" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=lucaaroeiracrv&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=161b22&area=true&hide_border=true" alt="Gráfico de atividades do GitHub" width="100%" />
 </p>
 
 ---
