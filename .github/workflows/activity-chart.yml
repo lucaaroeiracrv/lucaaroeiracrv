@@ -1,0 +1,27 @@
+
+name: Generate activity chart
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate activity chart
+        uses: actions/checkout@v4
+
+      - name: Create chart
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: lucaaroeiracrv
+          template: classic
+          base: activity
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
