@@ -16,7 +16,7 @@ Sou formado em Tecnologia da Informação e tenho 19 anos. Bem-vindo ao meu perf
 ### 📈 Gráfico de atividades
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaaroeiracrv&theme=github-compact&hide_border=true" alt="Gráfico de atividades do GitHub" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaaroeiracrv&show_icons=true&theme=github_dark&hide_border=true&locale=pt_BR" alt="Estatísticas do GitHub" />
 </p>
 
 ---
@@ -57,12 +57,9 @@ Estou aprendendo mais sobre:
 
 ## 🐍 Minhas contribuições
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaaroeiracrv/lucaaroeiracrv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaaroeiracrv/lucaaroeiracrv/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucaaroeiracrv/lucaaroeiracrv/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  <img alt="Animação da cobrinha nas contribuições do GitHub" src="https://raw.githubusercontent.com/lucaaroeiracrv/lucaaroeiracrv/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -72,7 +69,7 @@ Estou aprendendo mais sobre:
     <a href="mailto:lucaaroeira@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="[https://www.instagram.com/lucaaroeira](https://www.instagram.com/luca_aroeira/)" target="_blank">
+    <a href="https://www.instagram.com/luca_aroeira/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://www.linkedin.com/in/lucaaroeira" target="_blank">
