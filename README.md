@@ -10,8 +10,7 @@ Sou formado em Tecnologia da Informação e tenho 19 anos. Bem-vindo ao meu perf
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=lucaaroeiracrv&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaaroeiracrv&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas" />
-</p>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaaroeiracrv&theme=github_dark" alt="Linguagens mais usadas" />
 
 ### 📈 Gráfico de atividades
 
